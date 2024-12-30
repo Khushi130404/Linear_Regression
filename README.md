@@ -22,3 +22,11 @@ Both the self-created class for Linear Regression and sklearn's LinearRegression
 - sklearn - For implementing linear regression models and evaluation metrics
 - seaborn (optional) - For enhanced data visualization
 - math - For mathematical operations
+
+## Visualization
+
+- Scatter plots to show the distribution of CGPA, IQ, and LPA.
+- Line plots to visualize the regression lines for each model.
+- Comparison charts to evaluate and compare the results of the models.
+  
+The visualizations help in understanding how well each model fits the data and highlight the differences between the regression techniques.
