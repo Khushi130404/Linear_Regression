@@ -14,3 +14,11 @@ This project predicts the placement salary (LPA) based on CGPA and IQ. The goal 
 
 Both the self-created class for Linear Regression and sklearn's LinearRegression class are used to implement these models, providing a comparison between the two approaches.
 
+## Libraries Used
+
+- numpy - For numerical operations
+- pandas - For data handling and manipulation
+- matplotlib - For plotting visualizations
+- sklearn - For implementing linear regression models and evaluation metrics
+- seaborn (optional) - For enhanced data visualization
+- math - For mathematical operations
